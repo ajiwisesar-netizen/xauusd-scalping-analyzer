@@ -1,4 +1,6 @@
-streamlit
-pandas
-numpy
-plotly
+streamlit>=1.35
+pandas>=2.0
+plotly>=5.20
+gdown>=5.1
+requests>=2.31
+streamlit-autorefresh>=1.0.1
